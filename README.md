@@ -49,7 +49,7 @@ Subsequent analysis revealed:
 ---
 
 📄 Full Investigation Report:  
-[View Report](./docs/MidRiver-Health-Incident-Response.pdf)
+[View Report](./MidRiver-Health-Incident-Response.pdf)
 
 ---
 
